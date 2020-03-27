@@ -110,8 +110,12 @@ if (datos2.length == 0) {
 updatetable(datos2);
 });
 }
-//UFO-level-1
-filtro1(tableData);
+////UFO-level-1
 
-// UFO-level-2.
+
+//filtro1(tableData);
+
+//// UFO-level-2.
+
+
 filtromultiple(tableData);
